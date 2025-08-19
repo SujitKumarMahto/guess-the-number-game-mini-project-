@@ -32,6 +32,12 @@ The game resets after a correct guess or when the player quits.
 Step-by-step guide on how to run the project. Example: clone repo → install Flask → run app → open in browser.
 
 2. 📸 Screenshot
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/c1c01a0a-ec4a-4c95-8eef-2d4b82f24538" />
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/05eda38d-b626-46df-b13f-09ae116bd775" />
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/9fda2b18-0170-48ba-a9d4-bc3774dc0079" />
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/eaf38e97-da36-4525-8208-84b3b358b113" />
+
+
 
 Show at least one screenshot (like the browser page when running your game). Recruiters love visuals.
 
