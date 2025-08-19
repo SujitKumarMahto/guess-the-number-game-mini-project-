@@ -32,10 +32,14 @@ The game resets after a correct guess or when the player quits.
 Step-by-step guide on how to run the project. Example: clone repo → install Flask → run app → open in browser.
 
 2. 📸 Screenshot
-<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/c1c01a0a-ec4a-4c95-8eef-2d4b82f24538" />
-<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/05eda38d-b626-46df-b13f-09ae116bd775" />
-<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/9fda2b18-0170-48ba-a9d4-bc3774dc0079" />
-<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/eaf38e97-da36-4525-8208-84b3b358b113" />
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 32 PM" src="https://github.com/user-attachments/assets/d9a9211a-3163-421a-a836-10e00810e2fb" />
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 23 PM" src="https://github.com/user-attachments/assets/4f03d308-7f05-43ef-ba0b-670ef304a6ca" />
+<img width="1440" height="900" alt="Screenshot 2025-08-19 at 1 15 04 PM" src="https://github.com/user-attachments/assets/179f236b-e0c1-4ac0-9d68-008831d59438" />
+<img width="1431" height="865" alt="Screenshot 2025-08-19 at 1 14 04 PM" src="https://github.com/user-attachments/assets/497e1e59-7bbf-48ad-a8a9-34a408a274f7" />
+
+
+
+
 
 
 
