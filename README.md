@@ -59,6 +59,6 @@ Show that you’re thinking about scaling/improving your project. Example:
 
 5. 👤 Author
 
-Sujit kumar mahto
+Sujit kumar mahto,
 mahtosujitkumar1997@gmail.com
 
