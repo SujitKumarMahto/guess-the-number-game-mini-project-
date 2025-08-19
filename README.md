@@ -27,3 +27,28 @@ The game resets after a correct guess or when the player quits.
 ---
 
 ## 📂 Project Structure
+1. ⚙️ Setup & Run Locally
+
+Step-by-step guide on how to run the project. Example: clone repo → install Flask → run app → open in browser.
+
+2. 📸 Screenshot
+
+Show at least one screenshot (like the browser page when running your game). Recruiters love visuals.
+
+3. 🚀 Deployment Options
+
+Explain how to share/play it (local network, ngrok, or deploy to Render/PythonAnywhere).
+
+4. 🌟 Future Improvements
+
+Show that you’re thinking about scaling/improving your project. Example:
+	•	Add difficulty levels
+	•	Track number of attempts
+	•	Leaderboard system
+	•	Improve UI with CSS framework
+
+5. 👤 Author
+
+Sujit kumar mahto
+mahtosujitkumar1997@gmail.com
+
